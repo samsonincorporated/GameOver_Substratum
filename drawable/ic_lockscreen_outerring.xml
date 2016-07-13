@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/keyguard_lockscreen_outerring_diameter" android:width="@dimen/keyguard_lockscreen_outerring_diameter" />
+    <solid android:color="#00000000" />
+    <corners android:radius="10.0dip" />
+    <stroke android:width="2.0dip" android:color="#ff33b5e5" />
+</shape>
